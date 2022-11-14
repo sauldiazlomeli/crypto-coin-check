@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crypto-coin-check/static/css/main.5ee0a247.css",
+    "main.js": "/crypto-coin-check/static/js/main.f8452ba0.js",
+    "index.html": "/crypto-coin-check/index.html",
+    "main.5ee0a247.css.map": "/crypto-coin-check/static/css/main.5ee0a247.css.map",
+    "main.f8452ba0.js.map": "/crypto-coin-check/static/js/main.f8452ba0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ee0a247.css",
+    "static/js/main.f8452ba0.js"
+  ]
+}
